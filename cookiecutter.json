@@ -1,0 +1,9 @@
+{
+	"name": "mypackage",
+	"version": "0.1.0",
+  "year": "2015",
+  "author": "Author's name",
+  "author_email": "author@example.com",
+  "copyright_holder": "{{ cookiecutter.author }}",
+  "short_description": "Give a brief description of the project."
+}
